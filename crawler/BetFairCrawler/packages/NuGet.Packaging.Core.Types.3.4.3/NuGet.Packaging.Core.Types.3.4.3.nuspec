@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NuGet.Packaging.Core.Types</id>
+    <version>3.4.3</version>
+    <title />
+    <authors>NuGet.Packaging.Core.Types</authors>
+    <owners>NuGet.Packaging.Core.Types</owners>
+    <licenseUrl>https://raw.githubusercontent.com/NuGet/NuGet.Client/dev/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/NuGet/NuGet.Client</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NuGet.Packaging.Core.Types</description>
+    <summary />
+    <releaseNotes />
+    <copyright>Copyright .NET Foundation. All rights reserved.</copyright>
+    <language />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="NuGet.Frameworks" version="3.4.3" />
+      </group>
+      <group targetFramework="Unsupported0.0">
+        <dependency id="NuGet.Frameworks" version="3.4.3" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="mscorlib" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

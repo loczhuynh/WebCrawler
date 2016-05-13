@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="image_src" href="http://www.bet-mate.co/assets/img/logo.jpg" />
+<link rel="shortcut icon" href="http://www.bet-mate.co/assets/img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.bet-mate.co/assets/img/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="http://www.bet-mate.co/assets/img/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://www.bet-mate.co/assets/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.bet-mate.co/assets/img/apple-touch-icon-114x114.png">
+<title>Bet Mate - Dropping Odds 1X2</title>
+<meta name="keywords" content="betfair dropping odds, betfair dropping 1X2, Match Odds dropping" />
+<meta name="description" content="Betfair Dropping Odds for 1X2 Market with the Volume Index Indicator." />
+<base href="" />
+	
+<meta property="og:title" content="Bet Mate - Dropping Odds 1X2" />
+<meta property="og:site_name" content="Bet Mate - Dropping Odds 1X2" />
+<meta property="og:description" content="Betfair Dropping Odds for 1X2 Market with the Volume Index Indicator." />
+<meta property="og:image" content="http://www.bet-mate.co/assets/img/apple-touch-icon-114x114.png" />
+
+<meta property="og:image" content="http://www.bet-mate.co/assets/img/apple-touch-icon-114x114.png" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/assets/css/style_new.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/css/flags24.min.css" />
+
+<script type="text/javascript" src="/assets/js/head.js" language="javascript"></script>
+<script type="text/javascript">
+var page = 'dropping-odds-1X2';
+var date = 'today';
+var type = '0';
+head.js("//code.jquery.com/jquery-1.11.3.min.js"
+		,"//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+		,"/assets/js/jquery.countDown.min.js"
+		,"/assets/js/jquery.easing.min.js"
+		,"/assets/js/forms.min.js"
+		,"/assets/js/sha512.min.js"
+		,"/assets/js/javascript.min.js");
+</script>
+</head>
+
+<body>
+<header>
+   <div class='container'>
+        <div class='row'>
+			<div class="logo col-md-4"><a href="/"><img src="assets/img/logo.jpg" alt="" width="347" height="143" border="0" class="img-responsive" /></a></div>
+			<div class="search col-sm-4"></div>
+			<div class="col-sm-4 cnt-log">
+			  <div class='login-mate'>
+			  				<form name="login_form" method="post" action="/classes/login.php"> 
+					<div class='col-md-8 txt-log'>
+						<input class='login-user' name="email" id="email" type="text" value="" placeholder="Username" />
+						<input class='login-pwd' name="password" id="password" type="password" value="" placeholder="Password"  />
+					</div>
+					<div class='col-md-4'>
+						<button name="submit" type="submit" class="btn btn-info bt-login" onclick="formhash(this.form, this.form.password);" >Login</button>
+					</div>
+					<div class='col-md-12'>
+						<span class='remember-txt'><a class='frg-pwd' href="/register">Register</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class='frg-pwd' href="/password">forgot pass?</a>
+					</div>
+					<div class='clearfix'></div> 
+				</form>
+			  			 </div>
+		  </div>
+			<div class='clearfix'></div> 
+        </div>
+   </div>
+</header>
+
+<section>
+<nav class="navbar navbar-static-top">
+  <div class="container menu">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand visible-xs" href="#">Bet Mate</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav"> 
+        <li class="active"><a href="/">Home</a></li>
+        <li><a href="/about-bet-mate">About Us</a></li>
+        <li><a href="/register">Register</a></li>
+        <li><a href="/subscribe-paypal">Subscribe Paypal</a></li>
+        <li><a href="/subscribe-skrill">Subscribe Skrill</a></li>
+        <li><a href="/contact">Contact Us</a></li>
+      </ul> 
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</section><section>
+    <div class='container'>
+        <div class='row'>
+			<div class='col-sm-9 tab-view-filter'>
+				<div class='tab-title'><!--<h3 class='v-view'>Views</h3>-->
+					<span class="onsale">
+						<span>VIEW</span>
+					</span>
+				</div>
+				<div class="reports_box">
+					<a href="/" >Betfair Live Coupon </a>
+					<a href="/dropping-odds-1X2" class="active" >Dropping Odds 1 X 2 </a>
+					<a href="/dropping-odds-Under-Over">Dropping Odds U/O </a>
+					<a href="/money-way-1X2">Money Way 1 X 2</a>
+					<a href="/money-way-Under-Over">Money Way Under/Over </a>  
+				</div>
+			</div>
+			<div class='col-sm-3 data-filter'>
+				<div class='tab-title'><h3 class='sub-scrive'>Subscribe Plan</h3></div>
+				<div class='data-int subscribe_box'>
+					<p>Subscribe for 23 EUR/Month & gain access to all Leagues & Tips.</p>
+					<a href="/subscribe-paypal" class="active">Paypal</a>
+					<a href="/subscribe-skrill" class="active">Skrill</a>
+				</div>
+			</div>
+			
+			<div class='clearfix'></div>
+			
+			<div class='col-sm-9 tab-view-filter'>
+				<div class='tab-title'><!--<h3 class='v-sort'>Sort By</h3>-->
+					<span class="onsale v-sort">
+						<span class=''>SORT</span>
+					</span>
+				</div>
+				<div class="sort_by_box" id="sort_by_box" >
+					<a href="javascript:void(0)" id="sort0" class="sort_button active" data-sortby="desc" onclick="sort_data( '0' );"  >Hot Drops</a>
+					<a href="javascript:void(0)" id="sort1" class="sort_button" data-sortby="asc" onclick="sort_data( '1' );" >Favorites of the Day</a>
+					<a href="javascript:void(0)" id="sort2" class="sort_button" data-sortby="desc" onclick="sort_data( '2' );" >Hot Volumes</a>
+					<a href="javascript:void(0)" id="sort3" class="sort_button" data-sortby="asc" onclick="sort_data( '3' );" >Picks of the Day</a>
+					<a href="javascript:void(0)" id="sort4" class="sort_button" data-sortby="desc" onclick="sort_data( '4' );" >Volume Index</a>
+					<a href="javascript:void(0)" id="sort5" class="sort_button" data-sortby="desc" onclick="sort_data( '5' );" >Drop and Volume Index</a>
+				</div>
+			</div>
+			<div class='col-sm-3 data-filter'>
+				<div class='tab-title'>
+				<span class="onsale v-sort">
+						<span class=''>DATE</span>
+					</span>
+				</div>
+				<div class="data-int date_box" id="date_box" >
+					<a href="javascript:void(0)" id="date0" class="sort_button active" onclick="get_odds( page, 'today' );" >Sat - 30.04</a>
+					<a href="javascript:void(0)" id="date1" class="sort_button" onclick="get_odds( page, 'tomorrow' );" >Sun - 01.05</a>
+					<a href="javascript:void(0)" id="date2" class="sort_button" onclick="get_odds( page, '2-days' );" >Mon - 02.05</a>
+					<a href="javascript:void(0)" id="date3" class="sort_button" onclick="get_odds( page, 'all' );" >All</a>
+				</div>
+			</div>
+        </div>
+   </div>
+</section>
+ 
+<section>
+    <div class='container'>
+        <div class='row'>
+            <div class='col-md-12 ads-mate'>
+				<div class="box-ads"><iframe src="https://affiliates.betadonis.com//banners.ashx?f=a&bid=219&pgid=10&aid=24" width="360" height="100" scrolling="no" frameborder="no"></iframe></div><div class="box-ads"><A href="https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=48594&AffiliateCode=365_193149&CID=194&DID=209&TID=1&PID=149&LNG=1" target="_blank"><img src="https://imstore.bet365affiliates.com/?AffiliateCode=365_193149&CID=194&DID=209&TID=1&PID=149&LNG=1" border="0" /></A></div>
+ 
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class='container'>
+        <div class='row'>
+			<div id='data-table' class='col-md-9 paddingl0'>
+				<div class="gridlayer droppingP droppingL">
+					<table border="0" cellspacing="0" cellpadding="0">
+						  <tr>
+							<td class='content-refresh'>
+								<div class="table_top_button bt-openfanc"><a href="/help">help</a></div>
+								<div class="table_top_button bt-refresh"><i class="fa fa-refresh"></i> Refreshing in <span id="countdown">30</span> sec</div>
+							</td>   
+						  </tr>
+					</table>
+					<div class="head">
+						<div class="center col-xs-4 text-center p0">
+							<div class="col-md-2 hidden-xs hidden-sm">C</div>
+							<div class="col-md-3 hidden-xs hidden-sm">T</div>
+							<div class="col-md-7 col-xs-12">EVENT</div>
+						</div>
+						<div class="right col-xs-8 text-center p0">
+							<div class="col-xs-1 p0">&nbsp;</div>
+							<div class="col-xs-5 p0">
+								<div class="col-xs-4">1</div>
+								<div class="col-xs-4">X</div>
+								<div class="col-xs-4">2</div>
+							</div>
+							<div class="col-xs-1 p0">&nbsp;</div>
+							<div class="col-xs-5 p0">
+								<div class="col-sm-3 hidden-xs p0">Vol</div>
+								<div class="col-sm-3 col-xs-4 p0">VI</div>
+								<div class="col-sm-3 col-xs-4 p0">P<span class="hidden-xs hidden-sm">ick</span></div>
+								<div class="col-sm-3 col-xs-4 p0">L<span class="hidden-xs hidden-sm">ink</span></div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div id="data-odds"></div>
+				</div>
+			</div>
+			<div id='data-side' class='col-md-3 data-filter'>
+				<div class="data-int date_box" id="date_box" >
+					<iframe allowtransparency="true" src="http://ads.betfair.com/ad.aspx?bid=8788&pid=72726" width="250" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe><p></p><iframe src="https://imstore.bet365affiliates.com/365_193149-610-35-6-149-1-48594.aspx" width="250" height="250" frameborder="0" scrolling="no">
+</iframe><p></p><a href="http://rebelbetting.com/sports-arbitrage?x=btfodds&a_bid=96f78728" target=""><img src="http://rebelbetting.com/affiliate/accounts/default1/banners/15-profit-every-month.gif" alt="" title="" width="300" height="250" /></a><img style="border:0" src="http://affiliates.rebelbetting.com/scripts/imp.php?x=btfodds&a_bid=96f78728" width="1" height="1" alt="" /><p></p><p></p><a href="https://www.betburger.com/arbs?sure_bets=469" target="_blank">Best Arbitrage Tool</a>
+
+
+ 
+<script src="http://www.btfscores.com/widgets/widget-side.min.js" async></script>
+<div id="sidebar-soccer-goal" style="width:250px;" ></div>
+<a href="http://www.bestbetting-directory.com/" title="BestBetting Directory - The Best Betting DIrectory on the Net."><img src="http://www.btfnews.com/assets/uploads/bbb.png" alt="BestBetting Directory" /></a><p></p><h3>Traffic Partners</h3> <p></p><a href="http://www.goaloo.com/" target="_blank">Live Score</a><p></p><a href="http://www.pro-tipsters.com" target="_blank">Pro-Tipsters</a></p><p><a href="http://www.bestbetting-directory.com" target="_blank">Bestbetting Directory</a><p></p> <a href="http://www.007soccerpicks.com" target="_blank" >007SoccerPicks.com</a><p></p><a href="http://bookielink.org/?phss=80818283" target="_blank" >Bookielink</a><p></p> 				</div>
+			</div>
+		</div>
+    </div>
+</section>
+
+<section id='footer'>
+    <div class='container'>
+        <div class='row'>
+            <div class='col-md-12'>
+                    <div class="footer">
+                      <div class="footerbox col-md-4">
+	                    <div class="footertitle">
+	                      <strong>Support</strong></div>
+	                      <a href="/terms-and-conditions">Terms & Conditions</a>
+	                      <a href="/privacy-policy">Privacy Policy</a>
+	                    </div>
+    
+	                    <div class="footerbox col-md-4">
+		                    <div class="footertitle">
+		                    <strong>Get to know us</strong></div>
+		                    <a href="/contact">Contact</a>
+	                        <a href="/about-bet-mate">About Us</a>
+	                    </div>
+    
+	                    <div class="footerbox col-md-4">
+		                    <div class="footertitle">
+		                    <strong>Other</strong></div>
+		                    <a href="/link-partners">Link Partners</a>
+		                    <a href="http://www.bestbetting-directory.com/" title="BestBetting Directory - The Best Betting DIrectory on the Net."><img src="http://www.bestbetting-directory.com/img/banner-small.jpg" alt="BestBetting Directory"></a>
+	                    </div>
+                    </div>
+            </div>
+        </div>
+   </div>
+   <div class='section-copy'>
+      <div class='container'>
+        <div class='row'>
+            <div class='col-md-12'>
+                <p>© Copyright 2015 | Bet-mate.co</p>
+            </div>
+        </div>
+      </div>
+   </div>
+</section>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62789229-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

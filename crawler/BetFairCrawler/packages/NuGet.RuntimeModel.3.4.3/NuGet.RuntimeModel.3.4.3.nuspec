@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NuGet.RuntimeModel</id>
+    <version>3.4.3</version>
+    <authors>NuGet.RuntimeModel</authors>
+    <owners>NuGet.RuntimeModel</owners>
+    <licenseUrl>https://raw.githubusercontent.com/NuGet/NuGet.Client/dev/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/NuGet/NuGet.Client</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NuGet.RuntimeModel</description>
+    <copyright>Copyright .NET Foundation. All rights reserved.</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="Newtonsoft.Json" version="6.0.4" />
+        <dependency id="NuGet.Versioning" version="3.4.3" />
+        <dependency id="NuGet.Frameworks" version="3.4.3" />
+      </group>
+      <group targetFramework="Unsupported0.0">
+        <dependency id="Newtonsoft.Json" version="6.0.4" />
+        <dependency id="NuGet.Versioning" version="3.4.3" />
+        <dependency id="NuGet.Frameworks" version="3.4.3" />
+        <dependency id="System.IO.FileSystem" version="4.0.0-beta-23109" />
+        <dependency id="System.Collections" version="4.0.10-beta-23109" />
+        <dependency id="System.Linq" version="4.0.0-beta-23109" />
+        <dependency id="System.Threading" version="4.0.10-beta-23109" />
+        <dependency id="Microsoft.CSharp" version="4.0.0-beta-23109" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="mscorlib" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
